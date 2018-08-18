@@ -1,5 +1,22 @@
 ---
-title: "About"
+title: "About me"
 ---
 
-I'm Antoine.
+Hi! I'm Antoine Falck.
+
+I'm a quant with particular interest in algorithmic trading and asset management.
+
+
+
+Thanks for stoping by! Hope you're having fun.
+
+## Contact
+
+I can be reached by email at the following address :
+
+[antoine.falck@gmail.com](mailto:antoine.falck@gmail.com)
+
+## Professional
+
+I'm employed by Kepler Cheuvreux in Paris in the quant research team.
+
