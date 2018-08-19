@@ -12,75 +12,68 @@ title: "Ressources"
 
 [Other Probability and Statistics work](#other-probability-and-statistics-work)
 
-
-------
-
+***
 
 ## Personal lecture notes
 
-Numerical Probability for Finance.
+Numerical Probability for Finance. <a href=./files/prob_num_fin.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a>
 
-Processus Stochastiques et Produits Dérivés.
+Processus Stochastiques et Produits Dérivés. <a href=./files/processus_sto_produits_derives.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a>
 
-Statistics for Finance and High Frequency Trading.
+Statistics for Finance and High Frequency Trading. <a href=./files/fin_haute_freq.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a>
 
-Introduction to Diffusion Processes.
+Introduction to Diffusion Processes. <a href=./files/int_processus_diff.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a>
 
-Macroeconomics.
+Macroeconomics. <a href=./files/macro_economie.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a>
 
-Derivatives.
+Derivatives. <a href=./files/marche_fin_th_fin.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a>
 
-Risk measures.
-
+Risk measures. <a href=./files/risk_measure.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a>
 
 ## Exercises
 
-Stochastic Processes and Derivatives.
+Stochastic Processes and Derivatives. <a href=./files/ex_derivatives.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a>
 
-Introduction to Diffusion Processes.
-
+Introduction to Diffusion Processes. <a href=./files/ex_diff_process.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a>
 
 ## Finance work
 
-Greeks with Tangent Automatic Differentiation method (C++). 
+Greeks with Tangent Automatic Differentiation method (C++). <a href=./files/tad.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a> <a href=./files/tad.tar.gz>Code</a>
 
-Option basket pricing (C++).
+Option basket pricing (C++). <a href=./files/option_basket.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a> <a href=./files/option-basket.tar.gz>Code</a>
 
-Portfolio management (Markovitz) and optimal liquidation (Almgren-Chriss) using R.
+Portfolio management (Markovitz) and optimal liquidation (Almgren-Chriss) using R. <a href=./files/high_frequency.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a> <a href=./files/high_frequency.tar.gz>Code</a>
 
-Low-beta Strategy.
+Low-beta Strategy. <a href=./files/low_beta.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a> <a href=./files/low_beta.tar.gz>Code</a>
 
-Investment strategy and arbitrage on Bitcoin forks.
+Investment strategy and arbitrage on Bitcoin forks. <a href=./files/fork.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a> <a href=./files/fork.tar.gz>Code</a>
 
-Presentation on the subprime crisis and shadow banking.
+Presentation on the subprime crisis and shadow banking. <a href=./files/subprime_crisis.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a>
 
-Simple Excel worksheet showing option hedging with Black-Scholes.
+Simple Excel worksheet showing option hedging with Black-Scholes. <a href=./files/Hedge_BS.xlsx><img height="15" width="15" src=./img/xlsx_button.png title="xlsx"></a>
 
-
-------
-
+***
 
 ## Machine learning work
 
-Yield curve prediction using Kalman filter.
+Yield curve prediction using Kalman filter. <a href=./files/yield_curve_prediction.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a> <a href=./files/yield_curve_prediction.tar.gz>Code</a>
 
-Deep Neural Network for MNIST.
+Deep Neural Network for MNIST. <a href=./files/dnn_mnist.tar.gz>Code</a>
 
-Econometrics, Taylor Rule for the United States.
+Econometrics, *Taylor Rule for the United States*. <a href=./files/taylor_rule.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a>
 
-Econometrics, Social Media.
+Econometrics, *Social Media*. <a href=./files/social_media.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a>
 
-WWW and Social Networks, Community Detection.
+WWW and Social Networks, *Community Detection*. <a href=./files/community_detection.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a> <a href=./files/community_detection.tar.gz>Code</a>
 
-WWW and Social Networks, Graph Structure in classification tasks.
-
+WWW and Social Networks, *Graph Structure in classification tasks*. <a href=./files/graph_structure.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a> <a href=./files/graph_structure.tar.gz>Code</a>
 
 ## Other Probability and Statistics work
 
-Segmentation using hidden Markov models.
+Segmentation using hidden Markov models. <a href=./files/segmentation.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a> <a href=./files/segmentation.tar.gz>Code</a>
 
-Object tracking with a Kalman filter.
+Object tracking with a Kalman filter. <a href=./files/object_tracking.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a> <a href=./files/object_tracking.tar.gz>Code</a>
 
-Particle filtering.
+Particle filtering. <a href=./files/particle_filtering.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a> <a href=./files/particle_filtering.tar.gz>Code</a>
 
-TIPE, Action de la force de Coriolis sur la jupe des Derviches Tourneurs.
+TIPE, *Action de la force de Coriolis sur la jupe des Derviches Tourneurs*. <a href=./files/tipe_derviches_tourneurs.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a>

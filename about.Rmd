@@ -4,9 +4,9 @@ title: "About me"
 
 Hi! I'm Antoine Falck.
 
-I'm a quant with particular interest in algorithmic trading and asset management.
+I'm a quant with particular interest in algorithmic trading and asset management. My interests include: math, programming, Linux and soccer (jetzt geht's los).
 
-
+The initial purpose of this blog is a place to collect various spare-time projects I’ve worked on, that might be of interest to other people. We’ll see how it evolves from here.
 
 Thanks for stoping by! Hope you're having fun.
 
@@ -18,5 +18,5 @@ I can be reached by email at the following address :
 
 ## Professional
 
-I'm employed by Kepler Cheuvreux in Paris in the quant research team.
+I'm employed by Kepler Cheuvreux in Paris in the quant research team. You can see my [resume](./files/resume.pdf) for more details.
 
