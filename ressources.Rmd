@@ -1,0 +1,86 @@
+---
+title: "Ressources"
+---
+
+[Personal lecture notes](#personal-lecture-notes)
+
+[Exercises](#exercises)
+
+[Finance work](#finance-work)
+
+[Machine learning work](#machine-learning-work)
+
+[Other Probability and Statistics work](#other-probability-and-statistics-work)
+
+
+------
+
+
+## Personal lecture notes
+
+Numerical Probability for Finance.
+
+Processus Stochastiques et Produits Dérivés.
+
+Statistics for Finance and High Frequency Trading.
+
+Introduction to Diffusion Processes.
+
+Macroeconomics.
+
+Derivatives.
+
+Risk measures.
+
+
+## Exercises
+
+Stochastic Processes and Derivatives.
+
+Introduction to Diffusion Processes.
+
+
+## Finance work
+
+Greeks with Tangent Automatic Differentiation method (C++). 
+
+Option basket pricing (C++).
+
+Portfolio management (Markovitz) and optimal liquidation (Almgren-Chriss) using R.
+
+Low-beta Strategy.
+
+Investment strategy and arbitrage on Bitcoin forks.
+
+Presentation on the subprime crisis and shadow banking.
+
+Simple Excel worksheet showing option hedging with Black-Scholes.
+
+
+------
+
+
+## Machine learning work
+
+Yield curve prediction using Kalman filter.
+
+Deep Neural Network for MNIST.
+
+Econometrics, Taylor Rule for the United States.
+
+Econometrics, Social Media.
+
+WWW and Social Networks, Community Detection.
+
+WWW and Social Networks, Graph Structure in classification tasks.
+
+
+## Other Probability and Statistics work
+
+Segmentation using hidden Markov models.
+
+Object tracking with a Kalman filter.
+
+Particle filtering.
+
+TIPE, Action de la force de Coriolis sur la jupe des Derviches Tourneurs.
