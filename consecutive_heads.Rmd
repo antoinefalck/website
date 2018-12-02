@@ -1,0 +1,26 @@
+# Consecutive heads
+
+## Subject
+
+What is the expected number of (fair) coin flips to get three consecutive heads? What about $n$ consecutive heads?
+
+---
+
+## Answer
+
+### First part
+
+The first part is quite easy, and can be done without Markov Chain knowledge.
+
+Let us note $N$ the random variable of the number of trials to get three consecutive heads. We have
+
+$$\mathbb E[N]=\frac12\left(1+\mathbb E[N]\right)+\frac14\left(2+\mathbb E[N]\right)+\frac18\left(3+\mathbb E[N]\right)+\frac38.$$
+
+Which leads us to $\mathbb E[N]=14$.
+
+### Second part (Markov Chain)
+
+
+
+
+
