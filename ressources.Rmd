@@ -42,6 +42,8 @@ Greeks with Tangent Automatic Differentiation method (C++). <a href=./files/tad.
 
 Option basket pricing (C++). <a href=./files/option_basket.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a> <a href=./files/option-basket.tar.gz>Code</a>
 
+Strategic allocation and application to random matrix theory. <a href=./files/random_matrix_theory.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a> <a href=./files/random-matrix-theory.tar.gz>Code</a>
+
 Portfolio management (Markovitz) and optimal liquidation (Almgren-Chriss) using R. <a href=./files/high_frequency.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a> <a href=./files/high_frequency.tar.gz>Code</a>
 
 Low-beta Strategy. <a href=./files/low_beta.pdf><img height="15" width="15" src=./img/pdf_button.gif title="pdf"></a> <a href=./files/low_beta.tar.gz>Code</a>
