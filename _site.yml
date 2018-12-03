@@ -4,7 +4,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Ressources"
-      href: ressources.html
+    - text: "Resources"
+      href: resources.html
     - text: "About"
       href: "about.html"
